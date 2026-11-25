@@ -7,21 +7,21 @@
   },
   "assays.csv": {
     "url": "https://query-api.iedb.org/bcell_search",
-    "sha256": "82ab10bf253d8edc7e3c3f43150a496603203f3a654fe469e316b1559397d40c",
-    "bytes": 95418,
+    "sha256": "dc9c66e0da16c2379a2dcda9d65157d39b9ac68af9b18e73b3dde2256a4ff2a2",
+    "bytes": 94714,
     "observed_date": "2026-11-25",
     "note": "Parent source P01012, linear peptide, PMIDs 34818647, 17236828 and 14600204"
   },
   "external_scores.csv": {
     "url": "https://tools.iedb.org/bcell/",
-    "sha256": "c22d983e7756ed6408aff0196f840639ce34d6fe302456b89353102f25513fca",
-    "bytes": 9466,
+    "sha256": "fad2a436cda4b6c41c4a592b926d4315e4f483f0224247de7076ac0f53de6c26",
+    "bytes": 9079,
     "observed_date": "2026-11-25"
   },
   "prediction_provenance.json": {
     "url": "https://tools.iedb.org/bcell/",
-    "sha256": "48873f4d77e6465ba0fba5d31d3eef5df3c525e3355eb115b0a909c1d54e77ca",
-    "bytes": 550,
+    "sha256": "2fa9ab8263624cc6c82e73e5a140bb0dacdfe36774222e851f25db102f56d442",
+    "bytes": 533,
     "observed_date": "2026-11-25"
   }
 }
