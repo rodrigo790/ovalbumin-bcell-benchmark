@@ -30,7 +30,7 @@ The analysis uses the snapshot included in `data/`.
 
 ## Interpretation
 
-IEDB negative labels describe specific assay conditions. Linear peptide assays and profile scores do not characterize discontinuous binding sites. Peptides overlap heavily. Training data overlap for BepiPred could not be ruled out, and the reported metrics are retrospective and descriptive.
+IEDB negative labels describe specific assay conditions. This comparison covers linear peptide binding. Peptides overlap heavily, and overlap with BepiPred training data is possible. Interpret the metrics as a retrospective description of two assay contexts.
 
 ## Sources and licenses
 
