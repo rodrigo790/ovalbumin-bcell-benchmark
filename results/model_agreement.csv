@@ -1,0 +1,4 @@
+a,b,spearman_rho
+BepiPred-2.0,Parker,0.539083
+BepiPred-2.0,Emini,0.386045
+Parker,Emini,0.594953

@@ -1,0 +1,14 @@
+{
+  "closed_reference": "UniProt P01012",
+  "source_assay_records": 703,
+  "retained_peptide_context_pairs": 381,
+  "unmapped_excluded": 6,
+  "conflicting_context_pairs_excluded": 130,
+  "peptide_contexts_missing_terminal_scores": 7,
+  "scored_contexts": 2,
+  "mean_auc_by_method": {
+    "BepiPred-2.0": 0.4472,
+    "Emini": 0.5156,
+    "Parker": 0.4137
+  }
+}

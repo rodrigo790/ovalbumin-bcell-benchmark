@@ -1,0 +1,27 @@
+{
+  "ova.fasta": {
+    "url": "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+    "sha256": "14ca6c7db2c4e15ae6781014a183228cf2f30266c7e2e87a6890f834da2bc67c",
+    "bytes": 473,
+    "observed_date": "2026-11-25"
+  },
+  "assays.csv": {
+    "url": "https://query-api.iedb.org/bcell_search",
+    "sha256": "82ab10bf253d8edc7e3c3f43150a496603203f3a654fe469e316b1559397d40c",
+    "bytes": 95418,
+    "observed_date": "2026-11-25",
+    "note": "Parent source P01012, linear peptide, PMIDs 34818647, 17236828 and 14600204"
+  },
+  "external_scores.csv": {
+    "url": "https://tools.iedb.org/bcell/",
+    "sha256": "c22d983e7756ed6408aff0196f840639ce34d6fe302456b89353102f25513fca",
+    "bytes": 9466,
+    "observed_date": "2026-11-25"
+  },
+  "prediction_provenance.json": {
+    "url": "https://tools.iedb.org/bcell/",
+    "sha256": "48873f4d77e6465ba0fba5d31d3eef5df3c525e3355eb115b0a909c1d54e77ca",
+    "bytes": 550,
+    "observed_date": "2026-11-25"
+  }
+}

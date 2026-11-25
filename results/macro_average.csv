@@ -1,0 +1,4 @@
+method,roc_auc,average_precision
+BepiPred-2.0,0.447201,0.052540
+Emini,0.515612,0.053508
+Parker,0.413695,0.040814

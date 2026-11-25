@@ -1,0 +1,7 @@
+pubmed_id,assay_names,host_organism_name,antibody_isotype,method,peptides,positive,prevalence_ap_baseline,roc_auc,average_precision
+14600204,qualitative binding|western blot,Homo sapiens (human),IgE,BepiPred-2.0,179,5,0.027933,0.437931,0.045037
+14600204,qualitative binding|western blot,Homo sapiens (human),IgE,Parker,179,5,0.027933,0.417241,0.028081
+14600204,qualitative binding|western blot,Homo sapiens (human),IgE,Emini,179,5,0.027933,0.534483,0.041168
+17236828,qualitative binding|western blot,Mus musculus BALB/c,IgE,BepiPred-2.0,191,12,0.062827,0.456471,0.060044
+17236828,qualitative binding|western blot,Mus musculus BALB/c,IgE,Parker,191,12,0.062827,0.410149,0.053547
+17236828,qualitative binding|western blot,Mus musculus BALB/c,IgE,Emini,191,12,0.062827,0.496741,0.065848

@@ -1,0 +1,17 @@
+{
+  "BepiPred-2.0": {
+    "source": "https://tools.iedb.org/bcell/",
+    "values": 386,
+    "response_sha256": "570ae09da56a1656474e5ae8933b1ae0b1f386a4892348318999e6cb78154eee"
+  },
+  "Parker": {
+    "source": "https://tools.iedb.org/bcell/",
+    "values": 380,
+    "response_sha256": "9fd55fbc61842dd31d49dd42a2cd0ff8f7e7e81e11a8c0a551374cf2686885d5"
+  },
+  "Emini": {
+    "source": "https://tools.iedb.org/bcell/",
+    "values": 381,
+    "response_sha256": "56114e0a970232060fb9e6f16f83e6b7bcf97a04d2e5ab0f7d8fbe51b06a206a"
+  }
+}
